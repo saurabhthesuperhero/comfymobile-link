@@ -1,0 +1,15 @@
+[project]
+name = "comfymobile-link"
+description = "Pair the Comfy Mobile Android app with ComfyUI by QR code, convert GUI workflows to API prompts, and get a push notification on your phone when a job finishes."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/saurabhthesuperhero/comfymobile-link"
+
+[tool.comfy]
+PublisherId = "comfymobile"
+DisplayName = "Comfy Mobile Link"
+Icon = ""
+includes = []
